@@ -4,3 +4,7 @@ git config --global user.email '917060778@qq.com'
 配置git秘钥 ssh-keygen -t rsa
 github下载文件报错 unable to get local issuer certificate：关闭ssh认证 git config --global http.sslverify false
 下载文件：git clone https://github.com/917060778/software.git
+
+上传文件:查看状态 git status 
+添加到版本：git add .
+上传 git commit -m "test"
