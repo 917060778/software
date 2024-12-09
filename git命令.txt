@@ -8,3 +8,4 @@ github下载文件报错 unable to get local issuer certificate：关闭ssh认�
 上传文件:查看状态 git status 
 添加到版本：git add .
 上传 git commit -m "test"
+上传到远程仓库：git push
